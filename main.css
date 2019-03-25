@@ -1,0 +1,7 @@
+.section-select {
+    opacity: 0.5;
+    font-size: 18px;
+}
+.section-select:hover {
+    opacity: 1;
+}
